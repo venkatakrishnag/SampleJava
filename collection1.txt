@@ -32,6 +32,8 @@ public class CollectionExercise1 {
 		
 		Collections.sort(list);
 		System.out.println(list);
+
+
 	}
 	
 }
